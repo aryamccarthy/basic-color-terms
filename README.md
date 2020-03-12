@@ -1,7 +1,7 @@
 # Modeling Color Terminology Across Thousands of Languages
 
 [![Paper](http://img.shields.io/badge/paper-ACL:D19--1229-B31B1B.svg)](https://www.aclweb.org/anthology/D19-1229/)
-[![Conference](http://img.shields.io/badge/EMNLP--2019-4b44ce.svg)](https://www.emnlp-ijcnlp2019.org)  
+[![Conference](http://img.shields.io/badge/EMNLP--2019-4b44ce.svg)](https://www.emnlp-ijcnlp2019.org)
 [![arXiv](http://img.shields.io/badge/arxiv-1910.01531-B31B1B.svg)](https://arxiv.org/abs/1910.01531)
 
 
